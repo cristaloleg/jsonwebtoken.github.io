@@ -8,6 +8,7 @@ function numericCompare(a, b) {
 }
 
 module.exports = function getLanguages() {
+  return [];
   let dirEntries = fs.readdirSync(`${__dirname}/../`);
   dirEntries = dirEntries.filter(e => e.endsWith('.json'));
   dirEntries.sort(numericCompare);
