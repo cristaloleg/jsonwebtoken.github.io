@@ -13,7 +13,7 @@ import {
   debuggerSection,
   extensionSection,
   ebookSection,
-  shareJwtButton,
+  // shareJwtButton,
   shareJwtTextElement,
   librariesElement
 } from "./dom-elements.js";
@@ -89,4 +89,4 @@ parseLocationQuery();
 setupHighlighting();
 setupJwtCounter();
 pickEbookOrExtensionBanner();
-setupShareJwtButton(shareJwtButton, shareJwtTextElement);
+// setupShareJwtButton(shareJwtButton, shareJwtTextElement);

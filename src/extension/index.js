@@ -20,4 +20,4 @@ function loadFromClipboardIfPossible() {
 setupTokenEditor();
 loadFromClipboardIfPossible();
 setupTokenPageInspector();
-setupShareJwtButton(shareJwtLink, shareJwtTextElement);
+// setupShareJwtButton(shareJwtLink, shareJwtTextElement);
