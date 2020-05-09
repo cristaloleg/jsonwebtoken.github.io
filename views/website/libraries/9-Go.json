@@ -404,7 +404,7 @@
       "authorName": "Oleg Kovalov",
       "gitHubRepoPath": "cristalhq/jwt",
       "repoUrl": "https://github.com/cristalhq/jwt",
-      "installCommandHtml": "go get github.com/cristalhq/jwt"
+      "installCommandHtml": "go get github.com/cristalhq/jwt/v2"
     }
   ]
 }
